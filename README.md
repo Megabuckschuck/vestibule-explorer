@@ -19,10 +19,16 @@ Folders inside the custom vestibule utilize visual weight shifting to communicat
 * **Frictionless Route:** Pressing and holding an image or digital note allows it to hover dynamically into the orbit of the folder matrix.
 * **Infinite Malleability:** Directories open, morph, and expand at any passage of time the user commands, keeping naming structures fully adaptable.
 
+## 🔬 Node 04: The Cross-Boundary Intercept & Spawning Arc
+* **The Origin Slide:** The exact millisecond a screenshot or artifact is born, the user catches the floating screen asset and slides it under direct finger control straight into the Vestibule Explorer orbit.
+* **The Hover Cascade:** Pausing the floating artifact over the explorer interface automatically glides open the color-coded directory layout to display contents in real time.
+* **The Ellipses Gate (<…>):** Hovering directly over the inline `<…>` action anchor triggers the immediate creation of an adaptive, empty sub-folder cell. 
+* **The Single-Release Handoff:** Dropping the artifact into the newly spawned room releases the payload and automatically invokes the keyboard layout for folder naming, completing the entire workflow in one continuous physical press.
 ---
 
 ## 🎓 Executive Administration
 * **Lead Architect:** `@Megabuckschuck` (Professor Gittles)
 * **Design Protocol:** 100% Mobile Interface Control (iPad Pro 11" M5 Grid)
-* **Framework Integration:** Showroom Quality. Use code with caution.
+* **Framework Integration:** Showroom Quality.
 Use code with caution.
+markdown
